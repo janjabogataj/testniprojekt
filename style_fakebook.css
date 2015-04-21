@@ -1,4 +1,4 @@
-/* toj je moj fakebook*/
+/* to je moj fakebook*/
 * div {
     border-radius: 5px;
     margin: auto;
@@ -7,6 +7,7 @@
     border:1px solid black;
     width: 600px;
 }
+/* to je header */
 #header{
     z-index: 1;
     padding:5px 0px;
@@ -16,6 +17,8 @@
     font-size: 30px;
     text-align: center;
 }
+
+/* to je iskalnik */
 #search_name {
     font-family: sans-serif;
     color: firebrick;
@@ -23,6 +26,8 @@
     text-align: center;
     padding-bottom: 10px;
 }
+
+/* to je  */
 #name {
     background-color: #7a9eb4;
     font-family: cursive;
