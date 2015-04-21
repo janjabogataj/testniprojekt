@@ -1,0 +1,47 @@
+/* toj je moj fakebook*/
+* div {
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border:1px solid black;
+    width: 600px;
+}
+#header{
+    z-index: 1;
+    padding:5px 0px;
+    background-color: #383c60;
+    font-family: cursive;
+    color: darkorange;
+    font-size: 30px;
+    text-align: center;
+}
+#search_name {
+    font-family: sans-serif;
+    color: firebrick;
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#name {
+    background-color: #7a9eb4;
+    font-family: cursive;
+    color: firebrick;
+    font-size: 25px;
+    text-align: center;
+}
+.picture {
+    background-color: #daf1f6;
+    text-align: center;
+    height: 350px;
+    padding-top: 50px;
+}
+.button {
+    text-align: center;
+    border: 0px;
+ }
+.content {
+    background-color: #daf1f6;
+    width: 580px;
+    padding-left: 20px;
+    }
